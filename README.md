@@ -1,4 +1,4 @@
-![pagbank-cli — visão geral do projeto](https://v3b.fal.media/files/b/0a9b9c65/9R5Ho3RVmcg1xyN3rtAjm_sH73o82k.png)
+![pagbank-cli — hero com identidade da empresa e integrações com agentes](https://d2p7pg.cachecloud.net/output/36b5df5e-0ee0-4fe3-9f07-b3d1923e15c9-u2_8fb9a5ad-c460-4ac1-8f68-dbcc8051d705.jpeg)
 
 # pagbank-cli 🏦
 
